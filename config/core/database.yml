@@ -1,0 +1,4 @@
+database: aurora
+auth:     false
+host:     localhost
+port:     27017
